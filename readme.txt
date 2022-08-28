@@ -13,7 +13,7 @@
 GitHub не позволяет загружать на свой сайт файлы тяжелее 25 МБ.
 Так что файлы для тренировки модели можно найти здесь:
 
-https://drive.google.com/file/d/1_Yp3fgP8MoILsB4LKx-RqMim_Akaruib/view?usp=sharing
+https://drive.google.com/file/d/1sMPssIedcVr-MG76fBcb97iPWQY-dc6o/view?usp=sharing
 
 Навигация по архиву:
 1) train_dataset_train.csv -- данные для тренировки;
